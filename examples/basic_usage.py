@@ -12,3 +12,5 @@ user_input = "Estoy muy frustrado con el servicio."
 response = empathy_model.generate_response(user_input)
 
 print(response)
+
+# NOTE: In future phases, this will include advanced emotion detection and adaptive empathy.
