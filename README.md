@@ -39,7 +39,7 @@ The detailed implementation will be available soon. (Private repository for now)
 
 
 
-Coming Soon
+Coming Soon - 
 
 The following features are currently being worked on in the private repository:
 
@@ -50,6 +50,8 @@ The following features are currently being worked on in the private repository:
 3- Cultural Precision Module: Adaptive learning for region-specific responses.
 
 4- Real-Time Conversational Features: Integration with STT systems for real-time applications.
+
+
 
 ## Installation
 1. Clone the repository:
