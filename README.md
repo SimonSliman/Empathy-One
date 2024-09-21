@@ -1,1 +1,1 @@
-# Empathy-One my Mesina  
+# Empathy-One by Mesina Labs 
