@@ -19,5 +19,5 @@ Empathy-One is designed to seamlessly integrate with existing LLMs by acting as 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/Empathy-One-Support-Model.git
-   cd Empathy-One-Support-Model
+   git clone https://github.com/your-repo/Empathy-One-Public.git
+   cd Empathy-One-Public
