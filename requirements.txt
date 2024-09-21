@@ -1,0 +1,3 @@
+# requirements.txt
+
+langdetect  # For language detection
