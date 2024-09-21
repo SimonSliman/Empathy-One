@@ -1,3 +1,21 @@
-# requirements.txt
+# Language detection library
+langdetect  # Used for detecting the language of the input text
 
-langdetect  # For language detection
+# Natural Language Processing (NLP) libraries for better text handling
+nltk  # Natural Language Toolkit, useful for tokenizing, stemming, etc.
+spacy  # Advanced NLP library for handling language models and linguistic annotations
+textblob  # Simplified text processing for sentiment analysis and language translation
+
+# Placeholder for emotion detection
+emotion-detection-placeholder  # Placeholder for the future emotion detection module
+
+# Placeholder for accent recognition
+accent-recognition-placeholder  # Placeholder for future accent detection logic
+
+# API libraries (optional, for future development of interaction layers)
+requests  # For making API requests (if needed for real-time interaction in Phase II)
+
+# Testing and development tools
+pytest  # For running unit tests
+flake8  # For checking code style and linting
+
