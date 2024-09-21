@@ -7,10 +7,10 @@ spacy  # Advanced NLP library for handling language models and linguistic annota
 textblob  # Simplified text processing for sentiment analysis and language translation
 
 # Placeholder for emotion detection
-emotion-detection-placeholder  # Placeholder for the future emotion detection module
+emotion-detection-mesina-placeholder  # Placeholder for the future emotion detection module
 
 # Placeholder for accent recognition
-accent-recognition-placeholder  # Placeholder for future accent detection logic
+accent-recognition-mesina-placeholder  # Placeholder for future accent detection logic
 
 # API libraries (optional, for future development of interaction layers)
 requests  # For making API requests (if needed for real-time interaction in Phase II)
