@@ -44,8 +44,11 @@ Coming Soon
 The following features are currently being worked on in the private repository:
 
 1- Advanced Emotion Detection: Dynamic responses based on real-time emotional feedback.
+
 2- Accent Recognition Enhancements: Expanded detection for regional accents, including real-time speech analysis.
+
 3- Cultural Precision Module: Adaptive learning for region-specific responses.
+
 4- Real-Time Conversational Features: Integration with STT systems for real-time applications.
 
 ## Installation
