@@ -19,6 +19,7 @@ for user_input in user_inputs_with_accents:
     response = accent_recognizer.adjust_response(detected_accent)
     print(f"User Input: {user_input}\nDetected Accent: {detected_accent}\nResponse: {response}\n")
 
+# NOTE: The future version will include real-time speech analysis for accents and more cultural adaptation.
 
 # src/empathy_one/accent_recognition.py
 
