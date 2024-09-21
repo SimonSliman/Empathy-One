@@ -16,6 +16,19 @@ Empathy-One is designed to seamlessly integrate with existing LLMs by acting as 
 2. Cultural Precision: Recognizes accents and cultural context to provide nuanced, localized responses.
 3. Empathy Prompting: Adds empathetic language to conversation flows using custom prompts.
 
+### Phase I:  Empathy Integration
+- Focus on language detection and advanced empathy response.
+- Supports Spanish, French, and other non-English languages.
+- Detects basic emotions
+- Tracks empathy KPIs  
+
+### Phase II: Advanced Emotion Detection (In Development)
+- Real-time emotion tracking.
+- Real-time empathy languages based on empathy triggers.
+
+### Phase III: Accent Recognition and Cultural Precision (Coming Soon)
+- Tailoring responses, using adaptive learning, based on regional accents and culture.
+
 ## Installation
 1. Clone the repository:
    ```bash
