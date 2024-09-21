@@ -40,6 +40,7 @@ The detailed implementation will be available soon. (Private repository for now)
 
 
 Coming Soon
+
 The following features are currently being worked on in the private repository:
 
 1- Advanced Emotion Detection: Dynamic responses based on real-time emotional feedback.
